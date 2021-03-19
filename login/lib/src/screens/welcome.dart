@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:login_where2go/src/screens/login.dart';
-import 'package:login_where2go/src/screens/signup.dart';
+import 'package:flutter_app_01/src/screens/login.dart';
+import 'package:flutter_app_01/src/screens/signup.dart';
 
 class WelcomeScreen extends StatefulWidget {
   @override

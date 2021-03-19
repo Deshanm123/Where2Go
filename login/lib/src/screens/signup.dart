@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:login_where2go/src/screens/reset.dart';
-import 'package:login_where2go/src/screens/verify.dart';
-import 'package:login_where2go/src/screens/welcome.dart';
+import 'package:flutter_app_01/src/screens/reset.dart';
+import 'package:flutter_app_01/src/screens/verify.dart';
+import 'package:flutter_app_01/src/screens/welcome.dart';
 // import 'home.dart';
 
 class SignupScreen extends StatefulWidget {
