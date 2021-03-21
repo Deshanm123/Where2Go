@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 // import 'package:login_where2go/src/screens/home.dart';
 // import 'package:login_where2go/src/screens/login.dart';
-import 'package:login_where2go/src/screens/welcome.dart';
+import 'package:flutter_app_01/src/screens/welcome.dart';
 
 class App extends StatelessWidget {
   @override
